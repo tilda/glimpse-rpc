@@ -16,7 +16,7 @@ GimpPlugInInfo PLUG_IN_INFO {
     run
 };
 
-MAIN() // cringe
+MAIN(); // cringe
 
 static void init(void) {
 
