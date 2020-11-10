@@ -1,7 +1,7 @@
 # Developer Notes
-This file is notes that the developer has made while developing the plugin. This may be useful, especially on windows.
+This file is notes that the developer has made while developing the plugin. This may be useful, especially on Windows.
 
-# gimptool doesn't work in powershell
+# gimptool doesn't work in PowerShell
 This is due to the arguments that gimptool takes. Here's what happens if you try:
 
 ```powershell
